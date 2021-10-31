@@ -2,10 +2,6 @@
 
 Morse code - Transmitter 
 
-modified on 14 Apr 2019
-by Saeed Hosseini @ Electropeak
-https://electropeak.com/learn
-
 */
 
 const int led = 13;
